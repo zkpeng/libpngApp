@@ -1,0 +1,1 @@
+演示了libpng在android上的一些基础用法，详细的用法可以查看libpng-manual.txt、example.c，pngtext.c。
